@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+/* Body */
+body {
+  font-family: "Inter", sans-serif;
+  background: hsl(0, 0%, 8%);
+}
+/* Bacground of card */
+.bg-card {
+  background: hsl(0, 0%, 12%);
+}
+/* For the city name */
+.city-color {
+  color: hsl(75, 94%, 57%);
+}
+
+/* List background */
+.bg-list {
+  background: hsl(0, 0%, 20%);
+}
